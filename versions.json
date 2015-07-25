@@ -1,0 +1,20 @@
+{
+    "newest": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    },
+    "v1.0.0": {
+        "versionString": "v1.0.0",
+        "download": {
+            "linux-ia32": "http://www.mediafire.com/download/osfyrtewwufd8f3/editor-linux-ia32.zip",
+            "linux-x64": "http://www.mediafire.com/download/q7121tjlgd47djx/editor-linux-x64.zip",
+            "osx-ia32": "http://www.mediafire.com/download/09egpbwpg8r6e2u/editor-osx-ia32.zip",
+            "osx-x64": "http://www.mediafire.com/download/1cy48pht8f90vje/editor-osx-x64.zip",
+            "win-ia32": "http://www.mediafire.com/download/2h05k5z3pmp6hmw/editor-win-ia32.zip",
+            "win-x64": "http://www.mediafire.com/download/791n9nac5vhy6wc/editor-win-x64.zip"
+        },
+        "message": "initial release",
+        "changelog": "Features\n* Windows/OS X/Linux Support (32 & 64 bit)\n* no .NET or Python installation needed\n* drag & drop encrypted (US/EU/JP/KR/TW) or unencrypted .mibs\n* create quests from scratch\n* export encrypted (US/EU/JP/KR/TW) or unencrypted .mib\n* manage your CQs in the editor's library\n* integrated proxy to directly host your CQ library\n* easy to use interface with autocompletion features\n* displays for specific quest ids which monsters are possible\n* applies fix for large monsters in the small table\n* applies fix to bypass reward check\n\nCurrent Limitations:\n* no episodic or challenge quests are supported right now"
+    }
+}
