@@ -2,7 +2,33 @@
     "newest": {
         "major": 1,
         "minor": 0,
-        "patch": 0
+        "patch": 2
+    },
+    "v1.0.2": {
+        "versionString": "v1.0.2",
+        "download": {
+            "linux-ia32": "https://docs.google.com/uc?id=0By3TPjtqwmxJRFNFNEhTdkQ0ODg&export=download",
+            "linux-x64": "https://docs.google.com/uc?id=0By3TPjtqwmxJNkNpR19qUVFKek0&export=download",
+            "osx-ia32": "https://docs.google.com/uc?id=0By3TPjtqwmxJdW56bWhZckdHX1k&export=download",
+            "osx-x64": "https://docs.google.com/uc?id=0By3TPjtqwmxJclNhUFFuRFlUNEU&export=download",
+            "win-ia32": "https://docs.google.com/uc?id=0By3TPjtqwmxJdnRvcVJIdTdkNU0&export=download",
+            "win-x64": "https://docs.google.com/uc?id=0By3TPjtqwmxJUXAwS0h3Q1VlTGc&export=download"
+        },
+        "message": "",
+        "changelog": "v1.0.2\n* fixed an ui bug\n* limit large monsters to 5\n* added some supplybox items\n* automatically set multiple hunt type when adding more than one wave\n\nv1.0.3\n* fixed intruder flag\n* a quest from scratch has now editable rewards\n* time now goes up to 255\n* fixed a bug when inserting more than 5 monsters"
+    },
+    "v1.0.1": {
+        "versionString": "v1.0.1",
+        "download": {
+            "linux-ia32": "https://drive.google.com/uc?export=download&confirm=UbDV&id=0By3TPjtqwmxJX1NBZzBrVkVFSDA",
+            "linux-x64": "http://www.mediafire.com/download/q7121tjlgd47djx/editor-linux-x64.zip",
+            "osx-ia32": "http://www.mediafire.com/download/09egpbwpg8r6e2u/editor-osx-ia32.zip",
+            "osx-x64": "http://www.mediafire.com/download/1cy48pht8f90vje/editor-osx-x64.zip",
+            "win-ia32": "http://www.mediafire.com/download/2h05k5z3pmp6hmw/editor-win-ia32.zip",
+            "win-x64": "http://www.mediafire.com/download/791n9nac5vhy6wc/editor-win-x64.zip"
+        },
+        "message": "",
+        "changelog": "Changelog\n* fixed intruder flag\n* a quest from scratch has now editable rewards\n* time now goes up to 255\n* fixed a bug when inserting more than 5 monsters"
     },
     "v1.0.0": {
         "versionString": "v1.0.0",
