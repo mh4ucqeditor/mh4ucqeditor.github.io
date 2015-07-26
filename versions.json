@@ -2,7 +2,20 @@
     "newest": {
         "major": 1,
         "minor": 0,
-        "patch": 3
+        "patch": 4
+    },
+    "v1.0.4": {
+        "versionString": "v1.0.4",
+        "download": {
+            "linux-ia32": "https://docs.google.com/uc?id=0By3TPjtqwmxJVl9pajdvYTlDRzA&export=download",
+            "linux-x64": "https://docs.google.com/uc?id=0By3TPjtqwmxJVjlmN1B3ZU5TN1k&export=download",
+            "osx-ia32": "https://docs.google.com/uc?id=0By3TPjtqwmxJdGM1VldENE1fV1U&export=download",
+            "osx-x64": "https://docs.google.com/uc?id=0By3TPjtqwmxJaEFMNDlseEh3dDQ&export=download",
+            "win-ia32": "https://docs.google.com/uc?id=0By3TPjtqwmxJeVZneDZaZnZnOHc&export=download",
+            "win-x64": "https://docs.google.com/uc?id=0By3TPjtqwmxJeUdZakNWbVBDaWs&export=downloadg"
+        },
+        "message": "Sorry guys, i messed up decryption in v1.0.3",
+        "changelog": "v1.0.4\n*fixed decryption\n*added rage stat for large monster (experimental)\n\nv1.0.3\n* added reference maps to monster edit dialogs\n* added intruder time and chance\n* disabled save when input fields are empty\n* added a note about intruders\n* general improvements\n\nv1.0.2\n* fixed an ui bug\n* limit large monsters to 5\n* added some supplybox items\n* automatically set multiple hunt type when adding more than one wave\n\nv1.0.1\n* fixed intruder flag\n* a quest from scratch has now editable rewards\n* time now goes up to 255\n* fixed a bug when inserting more than 5 monsters"
     },
     "v1.0.3": {
         "versionString": "v1.0.3",
