@@ -2,7 +2,20 @@
     "newest": {
         "major": 1,
         "minor": 0,
-        "patch": 7
+        "patch": 8
+    },
+    "v1.0.8": {
+        "versionString": "v1.0.8",
+        "download": {
+            "linux-ia32": "https://docs.google.com/uc?id=0By3TPjtqwmxJSmJhaWgyVGk0UTQ&export=download",
+            "linux-x64": "https://docs.google.com/uc?id=0By3TPjtqwmxJTlpmMTkzaHhxaWM&export=download",
+            "osx-ia32": "https://docs.google.com/uc?id=0By3TPjtqwmxJUVFpd3V3MEoxOTg&export=download",
+            "osx-x64": "https://docs.google.com/uc?id=0By3TPjtqwmxJdndnZkRoUzNWczQ&export=download",
+            "win-ia32": "https://docs.google.com/uc?id=0By3TPjtqwmxJZTQwNlRveUtHdzA&export=download",
+            "win-x64": "https://docs.google.com/uc?id=0By3TPjtqwmxJR3NaLXBqcjdid0E&export=download"
+        },
+        "message": "If you should have any problems, please join ##mh4ucqeditor on freenode IRC.",
+        "changelog": "v1.0.8\n* added search bar to the library\n* added mystery, shining, timeworn and distorted charms to the rewards\nlimiting them to a quantity of 3 and two entries\n* added more unrestricted quest ids to HR\n* moved requirements and objectives to a separate tab\n* renamed stamina to stagger/break resistence\n* improved performance of library view\n\nv1.0.7\n* added gather rank\n* added arena fence switch\n* readded search dropdowns for edit dialogs\n* added apex after a while\n* added some supplybox items\n* fixed an encoding issue with the proxy\n* fixed break part id"
     },
     "v1.0.7": {
         "versionString": "v1.0.7",
