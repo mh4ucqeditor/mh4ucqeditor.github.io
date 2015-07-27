@@ -2,17 +2,17 @@
     "newest": {
         "major": 1,
         "minor": 0,
-        "patch": 6
+        "patch": 7
     },
     "v1.0.7": {
         "versionString": "v1.0.7",
         "download": {
-            "linux-ia32": "https://docs.google.com/uc?id=0By3TPjtqwmxJSGJtVFRwTG4tOWc&export=download",
-            "linux-x64": "https://docs.google.com/uc?id=0By3TPjtqwmxJbE9uTFlycFBkVjg&export=download",
-            "osx-ia32": "https://docs.google.com/uc?id=0By3TPjtqwmxJX080T2lxZkhFMVE&export=download",
-            "osx-x64": "https://docs.google.com/uc?id=0By3TPjtqwmxJV2xyZ2ZsMXFsMnc&export=download",
-            "win-ia32": "https://docs.google.com/uc?id=0By3TPjtqwmxJR0pQLU40bXAwN28&export=download",
-            "win-x64": "https://docs.google.com/uc?id=0By3TPjtqwmxJd3Q1cWZYdEE1bW8&export=download"
+            "linux-ia32": "https://docs.google.com/uc?id=0By3TPjtqwmxJZ211dkVYVXZmWlU&export=download",
+            "linux-x64": "https://docs.google.com/uc?id=0By3TPjtqwmxJMkhCcVV3S19vb1E&export=download",
+            "osx-ia32": "https://docs.google.com/uc?id=0By3TPjtqwmxJNEVBR1VXRnBEMlk&export=download",
+            "osx-x64": "https://docs.google.com/uc?id=0By3TPjtqwmxJdnRlV3pXdFlKdms&export=download",
+            "win-ia32": "https://docs.google.com/uc?id=0By3TPjtqwmxJQ3hVMTVLTExtWmc&export=download",
+            "win-x64": "https://docs.google.com/uc?id=0By3TPjtqwmxJTk1DdjQzTmFlLTg&export=download"
         },
         "message": "",
         "changelog": "v1.0.7\n* added gather rank\n* added arena fence switch\n* readded search dropdowns for edit dialogs\n* added apex after a while\n* added some supplybox items\n* fixed an encoding issue with the proxy\n* fixed break part id\n\nv1.0.6\n* added quest fee\n* added some items to the supplybox\n* hopefully fixed the ui bugs\n\nv1.0.5\n* fixed a bug which caused certain quests to crash\n* switched Hunt and Slay as quest objectives\n* removed dropdowns causing ui glitches\n\nv1.0.4\n* fixed decryption\n* added rage stat for large monster (experimental)\n\nv1.0.3\n* added reference maps to monster edit dialogs\n* added intruder time and chance\n* disabled save when input fields are empty\n* added a note about intruders\n* general improvements"
