@@ -2,8 +2,22 @@
     "newest": {
         "major": 1,
         "minor": 1,
-        "patch": 1
+        "patch": 2
     },
+    "v1.1.2": {
+        "versionString": "v1.1.2",
+        "download": {
+            "linux-ia32": "https://docs.google.com/uc?id=0By3TPjtqwmxJQmZCQ0hzOG5KWjA&export=download",
+            "linux-x64": "https://docs.google.com/uc?id=0By3TPjtqwmxJOEtmWGRpWWdWSFk&export=download",
+            "osx-ia32": "https://docs.google.com/uc?id=0By3TPjtqwmxJSnNLVk80ZXctVHc&export=download",
+            "osx-x64": "https://docs.google.com/uc?id=0By3TPjtqwmxJSk1vSEd2NElxdjA&export=download",
+            "win-ia32": "https://docs.google.com/uc?id=0By3TPjtqwmxJM1dSdXpQMWhUZ2s&export=download",
+            "win-x64": "https://docs.google.com/uc?id=0By3TPjtqwmxJSEZCN0ZQeGMzRnc&export=download"
+        },
+        "message": "",
+        "changelog": "v1.1.2\n* added chinese and french translation\n* fixed a reward search bug\n* automatically set ship integrity flag\n\nv1.1.1\n* added spanish translation\n* you can now sort by quest id\n* faster reward input\n\nv1.1.0\n* added german translation\n* added initial fence state, fence duration and fence cooldown\n* fixed subquest flag\n* added enduring charms to rewards\n\n"
+    },
+
     "v1.1.1": {
         "versionString": "v1.1.1",
         "download": {
