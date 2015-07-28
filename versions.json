@@ -1,8 +1,21 @@
 {
     "newest": {
         "major": 1,
-        "minor": 0,
-        "patch": 8
+        "minor": 1,
+        "patch": 0
+    },
+    "v1.1.0": {
+        "versionString": "v1.1.0",
+        "download": {
+            "linux-ia32": "https://docs.google.com/uc?id=0By3TPjtqwmxJUTVGOS1jSjBWMzg&export=download",
+            "linux-x64": "https://docs.google.com/uc?id=0By3TPjtqwmxJNVFyMUl5Q0VYUnM&export=download",
+            "osx-ia32": "https://docs.google.com/uc?id=0By3TPjtqwmxJMTI1UU9Ta2J1cUk&export=download",
+            "osx-x64": "https://docs.google.com/uc?id=0By3TPjtqwmxJNG4xdTEzSDlUOFE&export=download",
+            "win-ia32": "https://docs.google.com/uc?id=0By3TPjtqwmxJZWdlbzVIc2NRQ0U&export=download",
+            "win-x64": "https://docs.google.com/uc?id=0By3TPjtqwmxJaGY1dGlwZTlSUVE&export=download"
+        },
+        "message": "I am looking for translators, if you want to help please join ##mh4ucqeditor on freenode IRC.",
+        "changelog": "v1.1.0\n* added german translation\n* added initial fence state, fence duration and fence cooldown\n* fixed subquest flag\n* added enduring charms to rewards\n\nv1.0.8\n* added search bar to the library\n* added mystery, shining, timeworn and distorted charms to the rewards\nlimiting them to a quantity of 3 and two entries\n* added more unrestricted quest ids to HR\n* moved requirements and objectives to a separate tab\n* renamed stamina to stagger/break resistence\n* improved performance of library view\n\nv1.0.7\n* added gather rank\n* added arena fence switch\n* readded search dropdowns for edit dialogs\n* added apex after a while\n* added some supplybox items\n* fixed an encoding issue with the proxy\n* fixed break part id"
     },
     "v1.0.8": {
         "versionString": "v1.0.8",
