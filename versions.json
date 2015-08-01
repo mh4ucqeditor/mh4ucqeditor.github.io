@@ -2,12 +2,25 @@
     "newest": {
         "major": 1,
         "minor": 1,
-        "patch": 4
+        "patch": 5
+    },
+    "v1.1.5": {
+        "versionString": "v1.1.5",
+        "download": {
+            "linux-ia32": "http://104.131.1.242/static/v1.1.5/editor-linux-ia32.zip",
+            "linux-x64": "http://104.131.1.242/static/v1.1.5/editor-linux-x64.zip",
+            "osx-ia32": "http://104.131.1.242/static/v1.1.5/editor-osx-ia32.zip",
+            "osx-x64": "http://104.131.1.242/static/v1.1.5/editor-osx-x64.zip",
+            "win-ia32": "http://104.131.1.242/static/v1.1.5/editor-win-ia32.zip",
+            "win-x64": "http://104.131.1.242/static/v1.1.5/editor-win-x64.zip"
+        },
+        "message": "",
+        "changelog": "v1.1.5\n* added graven charms and zenith gems\n* removed charm limits\n* translated items into spanish (thanks Anthony)\n* translations updated\n* update process improved\n* other minor fixes\n* added donation url in settings\n\nv1.1.4\n* added rotation of monsters\n* you can now edit resupplies\n* fixed some translations\n* some other minor fixes"
     },
     "v1.1.4": {
         "versionString": "v1.1.4",
         "download": {
-            "linux-ia32": "hhttp://104.131.1.242/static/v1.1.4/editor-linux-ia32.zip",
+            "linux-ia32": "http://104.131.1.242/static/v1.1.4/editor-linux-ia32.zip",
             "linux-x64": "http://104.131.1.242/static/v1.1.4/editor-linux-x64.zip",
             "osx-ia32": "http://104.131.1.242/static/v1.1.4/editor-osx-ia32.zip",
             "osx-x64": "http://104.131.1.242/static/v1.1.4/editor-osx-x64.zip",
