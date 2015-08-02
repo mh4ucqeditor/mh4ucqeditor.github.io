@@ -2,7 +2,20 @@
     "newest": {
         "major": 1,
         "minor": 1,
-        "patch": 5
+        "patch": 6
+    },
+    "v1.1.6": {
+        "versionString": "v1.1.6",
+        "download": {
+            "linux-ia32": "http://104.131.1.242/static/v1.1.6/editor-linux-ia32.zip",
+            "linux-x64": "http://104.131.1.242/static/v1.1.6/editor-linux-x64.zip",
+            "osx-ia32": "http://104.131.1.242/static/v1.1.6/editor-osx-ia32.zip",
+            "osx-x64": "http://104.131.1.242/static/v1.1.6/editor-osx-x64.zip",
+            "win-ia32": "http://104.131.1.242/static/v1.1.6/editor-win-ia32.zip",
+            "win-x64": "http://104.131.1.242/static/v1.1.6/editor-win-x64.zip"
+        },
+        "message": "Please be aware that you have to host all 3 quests of an episode dlc or else the proxy will not deliver them. This is for your own safety!\n",
+        "changelog": "v1.1.6\n* added hosting support for episodic and challenge quests\n* added armor spheres to rewards\n* added adamant pills and more ammo to the supplies\n* upped zenny limit to 120.000\n* quest rank now goes up to 14 stars\n* added library count\n* added item index\n\nv1.1.5\n* added graven charms and zenith gems\n* removed charm limits\n* translated items into spanish (thanks Anthony)\n* translations updated\n* update process improved\n* other minor fixes\n* added donation url in settings"
     },
     "v1.1.5": {
         "versionString": "v1.1.5",
