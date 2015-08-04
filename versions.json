@@ -15,7 +15,7 @@
             "win-x64": "http://104.131.1.242/static/v1.1.8/editor-win-x64.zip"
         },
         "message": "Hello everyone, i want to invite you to the new subreddit /r/MonsterHunterCustoms. I hope this will be a place where custom quest creators can share and communicate about their projects, ideas and quests. I also made the original custom quests, which were distributed on kiranico.com, available there. Also i recently added the option for donation in the settings page. I hope you enjoy my editor. -dasding",
-        "changelog": "v1.1.8\n* added subquest as third main objective\n* renamed apex after awhile to apex afer roar\n* added real apex after awhile\n\nv1.1.7\n* added option to allow repelling monsters\n* updated translations\n* other minor fixes"
+        "changelog": "v1.1.8\n* added subquest as third main objective (will still show as subquest)\n* renamed apex after awhile to apex afer roar\n* added real apex after awhile\n* added hosting support for palicos (edit support coming in v1.2.0)\n* added import button for mibs/otbs\n* added import button for supplies and rewards\n\nv1.1.7\n* added option to allow repelling monsters\n* updated translations\n* other minor fixes"
     },
     "v1.1.7": {
         "versionString": "v1.1.7",
