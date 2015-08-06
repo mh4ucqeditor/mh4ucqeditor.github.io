@@ -1,21 +1,21 @@
 {
     "newest": {
         "major": 1,
-        "minor": 1,
-        "patch": 8
+        "minor": 2,
+        "patch": 1
     },
-    "v1.2.0": {
-        "versionString": "v1.2.0",
+    "v1.2.1": {
+        "versionString": "v1.2.1",
         "download": {
-            "linux-ia32": "http://104.131.1.242/static/v1.2.0/editor-linux-ia32.zip",
-            "linux-x64": "http://104.131.1.242/static/v1.2.0/editor-linux-x64.zip",
-            "osx-ia32": "http://104.131.1.242/static/v1.2.0/editor-osx-ia32.zip",
-            "osx-x64": "http://104.131.1.242/static/v1.2.0/editor-osx-x64.zip",
-            "win-ia32": "http://104.131.1.242/static/v1.2.0/editor-win-ia32.zip",
-            "win-x64": "http://104.131.1.242/static/v1.2.0/editor-win-x64.zip"
+            "linux-ia32": "http://104.131.1.242/static/v1.2.1/editor-linux-ia32.zip",
+            "linux-x64": "http://104.131.1.242/static/v1.2.1/editor-linux-x64.zip",
+            "osx-ia32": "http://104.131.1.242/static/v1.2.1/editor-osx-ia32.zip",
+            "osx-x64": "http://104.131.1.242/static/v1.2.1/editor-osx-x64.zip",
+            "win-ia32": "http://104.131.1.242/static/v1.2.1/editor-win-ia32.zip",
+            "win-x64": "http://104.131.1.242/static/v1.2.1/editor-win-x64.zip"
         },
         "message": "Hello everyone, i want to invite you to the new subreddit /r/MonsterHunterCustoms. I hope this will be a place where custom quest creators can share and communicate about their projects, ideas and quests. I also made the original custom quests, which were distributed on kiranico.com, available there. Also i recently added the option for donation in the settings page. I hope you enjoy my editor. -dasding",
-        "changelog": "v1.2.0\n* palico's are now editable\n* integrated puush upload feature including generation of httprls\n* other minor fixes\nv1.1.8\n* you can now use the subquest as a third main objective (will still show as subquest)\n* renamed apex after awhile to apex afer roar\n* added real apex after awhile\n* added hosting support for palicos (edit support coming in v1.2.0)\n* added import button for mibs/otbs\n* added import button for supplies and rewards"
+        "changelog": "v1.2.1\n* palico's are now editable\n* integrated puush upload feature including generation of httprls\n* other minor fixes\nv1.1.8\n* you can now use the subquest as a third main objective (will still show as subquest)\n* renamed apex after awhile to apex afer roar\n* added real apex after awhile\n* added hosting support for palicos (edit support coming in v1.2.0)\n* added import button for mibs/otbs\n* added import button for supplies and rewards"
     },
     "v1.1.8": {
         "versionString": "v1.1.8",
