@@ -2,7 +2,20 @@
     "newest": {
         "major": 1,
         "minor": 2,
-        "patch": 1
+        "patch": 2
+    },
+ "v1.2.2": {
+        "versionString": "v1.2.2",
+        "download": {
+            "linux-ia32": "http://104.131.1.242/static/v1.2.2/editor-linux-ia32.zip",
+            "linux-x64": "http://104.131.1.242/static/v1.2.2/editor-linux-x64.zip",
+            "osx-ia32": "http://104.131.1.242/static/v1.2.2/editor-osx-ia32.zip",
+            "osx-x64": "http://104.131.1.242/static/v1.2.2/editor-osx-x64.zip",
+            "win-ia32": "http://104.131.1.242/static/v1.2.2/editor-win-ia32.zip",
+            "win-x64": "http://104.131.1.242/static/v1.2.2/editor-win-x64.zip"
+        },
+        "message": "",
+        "changelog": "v1.2.2\n* updated translations\n* export subquest rewards fix\n* visual ui bug fix\n\nv1.2.1\n* palico's are now editable\n* integrated puush upload feature including generation of httprls\n* other minor fixes"
     },
     "v1.2.1": {
         "versionString": "v1.2.1",
