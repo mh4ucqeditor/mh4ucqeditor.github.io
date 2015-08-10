@@ -2,9 +2,22 @@
     "newest": {
         "major": 1,
         "minor": 2,
-        "patch": 2
+        "patch": 3
     },
- "v1.2.2": {
+    "v1.2.3": {
+        "versionString": "v1.2.3",
+        "download": {
+            "linux-ia32": "http://104.131.1.242/static/v1.2.3/editor-linux-ia32.zip",
+            "linux-x64": "http://104.131.1.242/static/v1.2.3/editor-linux-x64.zip",
+            "osx-ia32": "http://104.131.1.242/static/v1.2.3/editor-osx-ia32.zip",
+            "osx-x64": "http://104.131.1.242/static/v1.2.3/editor-osx-x64.zip",
+            "win-ia32": "http://104.131.1.242/static/v1.2.3/editor-win-ia32.zip",
+            "win-x64": "http://104.131.1.242/static/v1.2.3/editor-win-x64.zip"
+        },
+        "message": "",
+        "changelog": "v1.2.3\n* added special flags for specific monsters\n* added KNOWN special flags:\n  * mushroom types including Mario mushroom for Congalas\n  * permanent enrage for Akantor, Ukanlos and C. Fatalis\n  * Ruby Basarios fire type or status type\n  * Zinogre spawning charged or uncharged\n  * Gogmazios using only explosive oil\n  please let me know if you think you now what the alternate\n  version for a monster does ;)\n* added hunt-a-thon flag, which will respawn monsters faster\n* added a warning about cutscene monsters\n* deliver items are now searchable\n* display amount of carts next to the subtract value\n* showing now all possible ipv4 addresses instead of only the first one\n* italian translation added\n* full item translation for german, french and italia\n* removed debug info\n* removed expedition type (it's not really usable and was added accidently)\n* irc channel now opens in the program when clicking on the channel name"
+    },
+    "v1.2.2": {
         "versionString": "v1.2.2",
         "download": {
             "linux-ia32": "http://104.131.1.242/static/v1.2.2/editor-linux-ia32.zip",
