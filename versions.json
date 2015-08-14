@@ -1,8 +1,21 @@
 {
     "newest": {
-        "major": 1,
-        "minor": 2,
-        "patch": 3
+        "major": 2,
+        "minor": 0,
+        "patch": 0
+    },
+    "v2.0.0": {
+        "versionString": "v2.0.0",
+        "download": {
+            "linux-ia32": "http://104.131.1.242/static/v2.0.0/editor-linux-ia32.zip",
+            "linux-x64": "http://104.131.1.242/static/v2.0.0/editor-linux-x64.zip",
+            "osx-ia32": "http://104.131.1.242/static/v2.0.0/editor-osx-ia32.zip",
+            "osx-x64": "http://104.131.1.242/static/v2.0.0/editor-osx-x64.zip",
+            "win-ia32": "http://104.131.1.242/static/v2.0.0/editor-win-ia32.zip",
+            "win-x64": "http://104.131.1.242/static/v2.0.0/editor-win-x64.zip"
+        },
+        "message": "",
+        "changelog": "v2.0.0\n* unrestricted supply and rewards items (except combo books and wystones)\n* added break parts for quest goals (big thanks to MH-Slice)\n* small monster subgroups now editable\n* fixed a extremely rare issue with the proxy\n* added stamina attribute for monsters (not sure it really is)\n* added duplicate button for monsters and items\n* added button for export all hosted quests\n* added button for backing up all quests\n* minor fixes\n* translations updated\n* #swag"
     },
     "v1.2.3": {
         "versionString": "v1.2.3",
