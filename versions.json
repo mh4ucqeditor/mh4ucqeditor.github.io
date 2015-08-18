@@ -1,8 +1,21 @@
 {
     "newest": {
         "major": 2,
-        "minor": 0,
-        "patch": 2
+        "minor": 1,
+        "patch": 0
+    },
+    "v2.1.0": {
+        "versionString": "v2.1.0",
+        "download": {
+            "linux-ia32": "http://104.131.1.242/static/v2.1.0/editor-linux-ia32.zip",
+            "linux-x64": "http://104.131.1.242/static/v2.1.0/editor-linux-x64.zip",
+            "osx-ia32": "http://104.131.1.242/static/v2.1.0/editor-osx-ia32.zip",
+            "osx-x64": "http://104.131.1.242/static/v2.1.0/editor-osx-x64.zip",
+            "win-ia32": "http://104.131.1.242/static/v2.1.0/editor-win-ia32.zip",
+            "win-x64": "http://104.131.1.242/static/v2.1.0/editor-win-x64.zip"
+        },
+        "message": "",
+        "changelog": "v2.1.0\n* you can now set coordinates for monsters by clicking on the map for the following maps\n  * Arena\n  * Slayground\n  * Ingle Island\n  * Polar Field\n  * Sanctuary\n  * Ancestral Steppe\n\n* added Pirate Jump Bomb to rewards\n* now setting multiwave flag in the background\n* added rust kushala flag (used for winds of discord)\n* minor changes"
     },
     "v2.0.2": {
         "versionString": "v2.0.2",
