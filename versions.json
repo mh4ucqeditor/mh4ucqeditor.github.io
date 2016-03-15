@@ -2,7 +2,20 @@
     "newest": {
         "major": 2,
         "minor": 1,
-        "patch": 4
+        "patch": 5
+    },
+    "v2.1.5": {
+        "versionString": "v2.1.5",
+        "download": {
+            "linux-ia32": "http://104.131.1.242/static/v2.1.5/editor-linux-ia32.zip",
+            "linux-x64": "http://104.131.1.242/static/v2.1.5/editor-linux-x64.zip",
+            "osx-ia32": "http://104.131.1.242/static/v2.1.5/editor-osx-ia32.zip",
+            "osx-x64": "http://104.131.1.242/static/v2.1.5/editor-osx-x64.zip",
+            "win-ia32": "http://104.131.1.242/static/v2.1.5/editor-win-ia32.zip",
+            "win-x64": "http://104.131.1.242/static/v2.1.5/editor-win-x64.zip"
+        },
+        "message": "",
+        "changelog": "v2.1.5\n* added Dunes (Night & Day) as clickable maps (Thanks Knorr306)\n* added missing V. Hollow minimaps\n* added Kelbi Male/Female special option\n* added Cephalos special options\n* added OR mode for objectives\n* added buttons to move monsters between waves"
     },
     "v2.1.4": {
         "versionString": "v2.1.4",
